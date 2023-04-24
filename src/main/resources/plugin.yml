@@ -1,0 +1,11 @@
+name: MapPlugin
+version: '${version}'
+main: org.pluginmap.mapplugin.MapPlugin
+api-version: 1.16
+authors: [ fuzeblocks ]
+website: https://tuturcraft.craftcloud.fr
+commands:
+  map:
+    description: Retourne l'url
+  reload:
+    description: Recharge map

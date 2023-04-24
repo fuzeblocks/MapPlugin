@@ -1,0 +1,7 @@
+messages:
+  map: "§aClique §cici §apour accéder à la map !"
+  url: "Enter your message here"
+  denymessage: "§cYou are not a player"
+  reload: "§aPlugin map a bien été rechargé"
+  reloadperm: "§cDésolé mais tu n'a pas la permission"
+  #Select § not &
